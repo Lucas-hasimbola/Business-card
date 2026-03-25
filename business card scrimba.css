@@ -1,0 +1,27 @@
+.logo {
+    width: 125px;
+    
+}
+/* coolers.com pour trouver des association de couleurs */
+.card {
+    border-bottom: 4px solid #0353a4;
+    background-color: #979dac;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #001233;
+    
+.italic {
+    font-style: italic;
+}
+
+}
+.infos {
+    text-align: center;
+}
+.logo:hover {
+    scale: calc(1.05);
+}
